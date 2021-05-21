@@ -1,5 +1,3 @@
-# `mtoohey31`
-
 <a href="https://github-readme-stats.vercel.app/api?username=mtoohey31&show_icons=true&theme=nord">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mtoohey31&show_icons=true&theme=nord&exclude_repo=dotfiles" />
 </a>
